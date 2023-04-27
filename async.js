@@ -12,7 +12,7 @@
  // Trigger
  kitchen();
 
- let is_shop_open = true;
+ let is_shop_open = false;
 
 function time(ms) {
 
